@@ -10,3 +10,10 @@ Features
 📊 Progress bar
 🎨 Modern graphical user interface using Tkinter
 🔄 Restart and random paragraph generation
+ Future Improvements
+Multiple difficulty levels
+Leaderboard
+Dark/Light themes
+Sound effects
+User profiles
+Export typing statistics
